@@ -31,7 +31,7 @@ When using online video platforms like YouTube and Netflix, users often adjust p
 ```
 
 <p>
-To protect participant privacy, sensitive data (e.g., ESM responses, device IDs) are not included in the Excel file.
+To protect participant privacy, sensitive data (e.g., ESM responses) are not included in the Excel file.
 </p>
 
 ## Citation
